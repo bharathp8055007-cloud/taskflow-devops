@@ -1,0 +1,4 @@
+.env
+node_modules/
+taskflow-backup.sql
+k8s/taskflow-secret.yaml
